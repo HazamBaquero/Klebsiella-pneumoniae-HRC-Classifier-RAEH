@@ -164,6 +164,11 @@ If you use this repository, please cite it as:
 
 ## Authors
 
+**Hazam David Baquero Cuervo**  
+Researcher  
+Antimicrobial Resistance and Hospital Epidemiology Research Group (RAEH)  
+Universidad El Bosque
+
 **Juan Carlos García Betancur, Ph.D.**  
 Teaching-researcher  
 Antimicrobial Resistance and Hospital Epidemiology Research Group (RAEH)  
