@@ -19,7 +19,7 @@ For each genome, metadata associated with the NCBI record and sequencing informa
 
 The distribution of genome completeness across the collected genomes was evaluated as part of the initial quality assessment.
 
-![Genome completeness distribution](/figures/genome_completeness_distribution.png)
+![Genome completeness distribution](Figures/genome_completeness_distribution.png)
 
 **Figure 1. Genome completeness distribution.**
 
