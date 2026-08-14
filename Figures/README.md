@@ -49,7 +49,7 @@ The distribution of STs was subsequently analyzed to characterize the population
 
 The 20 most frequently represented STs were identified based on the number of genomes assigned to each sequence type.
 
-![Top 20 Sequence Types - vertical](01_metadata/figures/top20_sequence_types_vertical.png)
+![Top 20 Sequence Types - vertical](Figures/top20_sequence_types_vertical.png.png)
 
 **Figure 3. Top 20 Sequence Types according to the number of genomes.**
 
