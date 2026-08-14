@@ -31,7 +31,7 @@ The histogram shows the global distribution of genome completeness values across
 
 Genome contamination was also evaluated as part of the quality assessment.
 
-![Genome contamination distribution](01_metadata/figures/genome_contamination_distribution.png)
+![Genome contamination distribution](Figures/genome_contamination_distribution.png)
 
 **Figure 2. Genome contamination distribution.**
 
